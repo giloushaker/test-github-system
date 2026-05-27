@@ -16,5 +16,10 @@
         <categoryLink targetId="default-category" id="default-category-link" primary="true" name="Default Category" hidden="false"/>
       </categoryLinks>
     </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="New Entry" hidden="false" id="7525-483b-a279-1664">
+      <categoryLinks>
+        <categoryLink name="Default Category" hidden="false" id="9158-74fb-f414-054f" targetId="default-category" primary="true"/>
+      </categoryLinks>
+    </selectionEntry>
   </selectionEntries>
 </gameSystem>
