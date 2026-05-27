@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue library="false" id="4a15-2c4e-6def-da9e" name="added-catalogue-2" gameSystemId="sys-ab57-7c50-a549-4e2b" gameSystemRevision="1" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry type="upgrade" import="true" name="2" hidden="false" id="fa0e-9689-5657-3877">
+      <categoryLinks>
+        <categoryLink name="Default Category" hidden="false" id="f9e9-73a2-5881-cbf6" targetId="default-category" primary="true"/>
+      </categoryLinks>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>
