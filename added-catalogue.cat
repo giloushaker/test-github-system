@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue library="false" id="230e-dbc7-dc18-2826" name="added-catalogue" gameSystemId="sys-ab57-7c50-a549-4e2b" gameSystemRevision="1" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema"/>
+<catalogue library="false" id="230e-dbc7-dc18-2826" name="added-catalogue" gameSystemId="sys-ab57-7c50-a549-4e2b" gameSystemRevision="1" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry type="upgrade" import="true" name="This one" hidden="false" id="cea6-f2e1-d284-b7fd">
+      <categoryLinks>
+        <categoryLink name="Default Category" hidden="false" id="8ce2-ec18-0046-beda" targetId="default-category" primary="true"/>
+      </categoryLinks>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>
